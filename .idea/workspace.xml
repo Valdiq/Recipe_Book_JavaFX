@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70a61882-0c85-4377-a728-ad09cd41bfc5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ATiRGQIPZf05HTTS8RvZDYkm81" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Study/Programming/JAVA/JavaFX/GUI_project_3&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.gui_project_3.HelloApplication" />
+      <module name="GUI_project_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gui_project_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.gui_project_3.Main" />
+      <module name="GUI_project_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gui_project_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70a61882-0c85-4377-a728-ad09cd41bfc5" name="Changes" comment="" />
+      <created>1655039967253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655039967253</updated>
+      <workItem from="1655039968507" duration="18000" />
+      <workItem from="1655040014872" duration="103000" />
+      <workItem from="1655040217345" duration="6103000" />
+      <workItem from="1655112713692" duration="40892000" />
+      <workItem from="1655559765212" duration="26211000" />
+      <workItem from="1655805587431" duration="1827000" />
+      <workItem from="1655890295482" duration="4109000" />
+      <workItem from="1655995134879" duration="8588000" />
+      <workItem from="1656256592232" duration="3237000" />
+      <workItem from="1656411524399" duration="3840000" />
+      <workItem from="1661356061580" duration="143000" />
+      <workItem from="1661356639289" duration="254000" />
+      <workItem from="1663191021798" duration="25000" />
+      <workItem from="1663191476435" duration="1698000" />
+      <workItem from="1663193881122" duration="3095000" />
+      <workItem from="1663260093124" duration="1484000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
